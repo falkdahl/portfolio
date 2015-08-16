@@ -1,0 +1,11 @@
+h1 {
+  font-family: helvetica arial sans-serif;
+}
+
+.redish {
+  color: rgba(255, 0, 0, 0.5);
+}
+
+#page-title {
+  text-decoration: underline;
+}
