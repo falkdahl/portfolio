@@ -4,8 +4,5 @@ h1 {
 
 .redish {
   color: rgba(255, 0, 0, 0.5);
-}
-
-#page-title {
   text-decoration: underline;
 }
